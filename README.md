@@ -1,4 +1,5 @@
-### Hi there 👋 I am Umutcan Ceyhan. I am a 3rd Grade Computer Engineer Student at IZTECH. 
+### Hi there! Glad to see you here 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
+### I am Umutcan Ceyhan. I am a 3rd Grade Computer Engineer Student at IZTECH. 
 #### I am 21 and I'm currently working on Laravel, Statamic. 
 #### I'm currently learning Java Spring, React.JS, and MongoDB for my school project. Also learning Flutter (Dart) for academy project. 
 ##### [You can view my CV and know me more by visiting my LinkedIn Profile](https://www.linkedin.com/in/umutcanceyhan/) 
