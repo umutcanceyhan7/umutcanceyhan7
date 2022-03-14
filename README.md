@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Umutcan Ceyhan. I am a 3rd Grade Computer Engineer Student at IZTECH. 
-## I am 21 and I'm currently working on Laravel, Statamic. 
-## I'm currently learning Java Spring, React.JS, and MongoDB for my school project. 
-# How to reach me: [LinkedIn](https://www.linkedin.com/in/umutcanceyhan/)
-# Note: You can also reach my CV or Resume from my LinkedIn account. Hope to hear from you soon! 😄
+#### I am 21 and I'm currently working on Laravel, Statamic. 
+#### I'm currently learning Java Spring, React.JS, and MongoDB for my school project. 
+##### How to reach me: [LinkedIn](https://www.linkedin.com/in/umutcanceyhan/)
+##### Note: You can also reach my CV or Resume from my LinkedIn account. Hope to hear from you soon! 😄
 
 <!--
 **umutcanceyhan7/umutcanceyhan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
