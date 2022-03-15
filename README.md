@@ -1,7 +1,7 @@
 ### Hi there! Glad to see you here 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${umutcanceyhan7}.${umutcanceyhan7}) 
 ### I am Umutcan Ceyhan. I am a 3rd Grade Computer Engineer Student at IZTECH.
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
-![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
+![Linkedin Light](https://img.icons8.com/ios/344/linkedin.png#gh-dark-mode-only)
+![Linkedin Dark](https://img.icons8.com/ios-filled/344/linkedin.png#gh-light-mode-only)
 ## [<img width="22px" src="https://img.icons8.com/ios-filled/344/linkedin.png"/>][linkedin]
 [linkedin]: https://www.linkedin.com/in/umutcanceyhan/
 <details>
