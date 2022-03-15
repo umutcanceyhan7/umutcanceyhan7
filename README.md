@@ -6,7 +6,7 @@
  <summary>About Me</summary>
  
 #### I am 21 and I'm currently working on my Personal Growth.
-#### Trying to increase my communication and leadership skills. Also experiencing in **project management** field too. I am trying to experience as much as field possible to understand what I like to do most. I am still looking for a field, I could not choose a field yet. Right now **Back-end Web and Mobile Development** is in my scope trying to explore new things in this field. I want to work with Solidity soon to step in blockchain field too! If you need an active learner please contact me :smile: 
+#### Trying to increase my communication and leadership skills. Also, I am learning new things in the project management field too. I am trying to experience as much as field possible to understand what I like to do most. I am still looking for a field, I could not choose a field yet. Right now Back-end Web and Mobile Development are in my scope trying to explore new things in this field. I want to work with Solidity soon to step into the blockchain field too! If you need an active learner please contact me :smile: 
 </details>
 <details>
  <summary>Software Background</summary>
