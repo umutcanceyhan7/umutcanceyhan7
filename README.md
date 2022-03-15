@@ -2,7 +2,7 @@
 ### I am Umutcan Ceyhan. I am a 3rd Grade Computer Engineer Student at IZTECH.
 ![Linkedin Light](https://img.icons8.com/ios/344/linkedin.png#gh-dark-mode-only)
 ![Linkedin Dark](https://img.icons8.com/ios-filled/344/linkedin.png#gh-light-mode-only)
-## [<img width="22px" src="https://img.icons8.com/ios-filled/344/linkedin.png"/>][linkedin]
+## [<img width="22px" src="https://img.icons8.com/color/344/linkedin.png"/>][linkedin]
 [linkedin]: https://www.linkedin.com/in/umutcanceyhan/
 <details>
  <summary>About Me</summary>
