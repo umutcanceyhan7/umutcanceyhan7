@@ -1,9 +1,6 @@
 ### Hi there! Glad to see you here 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${umutcanceyhan7}.${umutcanceyhan7}) 
 ### I am Umutcan Ceyhan. I am a 3rd Grade Computer Engineer Student at IZTECH.
-![Linkedin Light](https://img.icons8.com/ios/344/linkedin.png#gh-dark-mode-only)
-![Linkedin Dark](https://img.icons8.com/ios-filled/344/linkedin.png#gh-light-mode-only)
-## [<img width="22px" src="https://img.icons8.com/color/344/linkedin.png"/>][linkedin]
-[linkedin]: https://www.linkedin.com/in/umutcanceyhan/
+## [<img width="36px" src="https://img.icons8.com/color/344/linkedin.png"/>][linkedin] [<img width="36px" src="https://img.icons8.com/color/344/gmail--v1.png"/>][mail]
 <details>
  <summary>About Me</summary>
 #### I am 21 and I'm currently working on my Personal Growth. Trying to increase my communication and leadership skills.
@@ -19,9 +16,13 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
  
 </details>
-#### [You can view my CV and know me more by visiting my LinkedIn Profile](https://www.linkedin.com/in/umutcanceyhan/) 
-#### [Or you can say hello to me via E-mail](mailto:umutcanceyhan@gmail.com)
+#### [You can view my CV and know me more by visiting my LinkedIn Profile][linkedin] 
+#### [Or you can say hello to me via E-mail][mail]
 <!-- ##### And here is my GitHub Stats 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umutcanceyhan7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 -->
 ##### Hope to hear from you soon! 😄
+
+[linkedin]: https://www.linkedin.com/in/umutcanceyhan/
+[mail]: mailto:umutcanceyhan@gmail.com
+
