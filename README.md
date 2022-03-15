@@ -1,7 +1,7 @@
 ### Hi there! Glad to see you here 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${umutcanceyhan7}.${umutcanceyhan7}) 
 ### I am Umutcan Ceyhan. I am a 3rd Grade Computer Engineer Student at IZTECH.
-### https://img.shields.io/static/v1?label=deneme&message=([image](https://user-images.githubusercontent.com/53305383/158383993-090d7684-ff7d-4053-8a3f-baf647792b7b.png)
-)&color=blue
+### [LinkedIn](https://img.shields.io/static/v1?label=deneme&message=([image](https://user-images.githubusercontent.com/53305383/158383993-090d7684-ff7d-4053-8a3f-baf647792b7b.png)
+)&color=blue)
 
 <!-- 
 ### The programming languages and frameworks that I have worked on!
