@@ -16,8 +16,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
  
 </details>
-#### [You can view my CV and know me more by visiting my LinkedIn Profile][linkedin] 
-#### [Or you can say hello to me via E-mail][mail]
+#### [You can view my CV and know me more by visiting my LinkedIn Profile]([linkedin])
+#### [Or you can say hello to me via E-mail]([mail])
 <!-- ##### And here is my GitHub Stats 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umutcanceyhan7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 -->
