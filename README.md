@@ -1,5 +1,5 @@
 ## Hi there! Glad to see you here 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${umutcanceyhan7}.${umutcanceyhan7}) 
-## I am Umutcan Ceyhan. I am a 3rd Grade Computer Engineer Student at IZTECH.
+## I am Umutcan Ceyhan. I am a Senior Computer Engineer Student at IZTECH.
 ### Contact me
 ## [<img width="36px" src="https://img.icons8.com/color/344/linkedin.png"/>][linkedin] [<img width="36px" src="https://img.icons8.com/color/344/gmail--v1.png"/>][mail]
 <details>
