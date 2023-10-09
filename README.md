@@ -1,11 +1,11 @@
 ## Hi there! Glad to see you here 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${umutcanceyhan7}.${umutcanceyhan7}) 
-## I am Umutcan Ceyhan. I am a Senior Computer Engineer Student at IZTECH.
+## I am Umutcan Ceyhan. I am a Fullstack Developer at Studiodx.
 ### Contact me
 ## [<img width="36px" src="https://img.icons8.com/color/344/linkedin.png"/>][linkedin] [<img width="36px" src="https://img.icons8.com/color/344/gmail--v1.png"/>][mail]
 <details>
  <summary><h3>About Me</h3></summary>
  
-#### I am 21 and I'm currently working on my Personal Growth.
+#### I am 23 and I'm currently working on my Personal Growth.
 #### My first aim is to develop my communication and leadership skills. Also, I am learning new things in project management too. I am trying to experience as much field as possible to understand what I like to do most. I am still looking for it. I could not choose one yet. Nowadays, Back-end Web and Mobile Development are in my scope. I am trying to explore new things and working to increase my knowledge of programming concepts. I want to work with Solidity soon to step into the blockchain world! If you need an active learner, please feel free to contact me. :smile: 
 </details>
 <details>
